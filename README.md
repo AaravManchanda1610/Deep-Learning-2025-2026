@@ -1,2 +1,2 @@
 # Deep-Learning-2025-2026
-Deep Learning Research &amp; Practice: An evolving repository of neural architectures and Computer Vision experiments. Focuses on implementation excellence, hyperparameter tuning, and comparative model evaluation using Python.
+This repository serves as a comprehensive technical log of my explorations in Deep Learning and Machine Learning. It contains a collection of neural architectures, preprocessing pipelines, and performance benchmarks designed to demonstrate the practical application of theoretical concepts.
